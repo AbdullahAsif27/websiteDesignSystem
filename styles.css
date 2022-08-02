@@ -1,0 +1,151 @@
+html{
+    background-color: black;
+  }
+  
+  nav  {
+    margin: 0;
+    padding: 20px 0;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  nav li {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    padding: 0px 140px;
+    display: inline-block;
+    width: 80px;
+  }
+  
+  nav .text{
+    margin-right:auto;
+    margin-left:auto;
+  }
+  
+  .navigation .link{
+    text-decoration: none;
+    color: darkblue;
+    border-radius: 4px;
+    text-align: center;
+  
+  }
+  
+  h1{
+    color: white;
+    text-align: center;
+  }
+  
+  p.introduction{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  h2{
+    color: darkblue;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #colors, #Fonts, #Styles{
+    background-color: white;
+    height: 320px;
+    width: 670px;
+    border-radius: 4px;
+    margin: 100px 0;
+    margin-right:auto;
+    margin-left:auto;
+  }
+  
+  #Styles{
+    height: 400px;
+  }
+  
+  .black{
+    background-color: black;
+    width: 45%;
+    height: 100px;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+  #bk{
+    color: white;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .blue{
+    background-color: #226ce0;
+    width: 45%;
+    height: 100px;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+  #be{
+    color: white;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .grey{
+    background-color: grey;
+    width: 45%;
+    height: 100px;
+    border-radius: 4px;
+    margin: -239px 330px;
+  
+  }
+  
+  #gy{
+    color: white;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .white{
+    background-color: white;
+    border: 2px solid black;
+    width: 45%;
+    height: 95px;
+    border-radius: 4px;
+    margin: 260px 330px;
+  }
+  
+  #we{
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .TimesNewRoman{
+    font-family: 'Times New Roman';
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  #HA, #TNR, #AL{
+    text-decoration: underline;
+  }
+  
+  .Helvitica{
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .Arial{
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px;
+  }
+  
+  .HD{
+    color: black;
+    text-align: center;
+    text-decoration: underline
+  }
+  
